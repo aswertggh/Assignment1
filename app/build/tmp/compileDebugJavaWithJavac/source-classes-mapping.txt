@@ -1,0 +1,6 @@
+com/example/assignmentfirst/MainActivity2.java
+ com.example.assignmentfirst.MainActivity2
+com/example/assignmentfirst/BuildConfig.java
+ com.example.assignmentfirst.BuildConfig
+com/example/assignmentfirst/MainActivity.java
+ com.example.assignmentfirst.MainActivity
